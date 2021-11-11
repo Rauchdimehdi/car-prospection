@@ -1,6 +1,6 @@
 # # TODO:
 #     - Scrap link from website : autoscout ..
-#     - Display the data using graphs 
+#     - Display the data using graphs after saving them on a file
 # # FIXME:
     # - Leboncoin block request
 
