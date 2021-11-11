@@ -1,6 +1,6 @@
 # Web scrapper from AutoScout24
 1. After providing a link, you get a list of information of the cars in this format :
-python3 web-scrapping.py
+> python3 web-scrapping.py
 ```
 the car offer :
  /offres/peugeot-208-82-style-puretech-panoramadach-pdc-essence-bleu-9b5bbbb7-70c4-46b9-ad7b-1751d68ec683 has 39 100 km, 
