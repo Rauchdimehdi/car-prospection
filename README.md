@@ -32,3 +32,13 @@ modele 03/2017 with 60 kW (82 CH) -- PRICE -- € 8 900,-
 16: ['/offres/peugeot-208-bluehdi-100-allure-navi-shz-bt-kamera-diesel-bleu-44340d80-d03a-4d80-9ea8-989f25c290c3', {'Km': '34\xa0000 km', 'Year': '08/2018', 'HP': '73 kW (99 CH)', 'Price': '11 450'}], 
 17: ['/offres/peugeot-208-active-82-klima-einparkhilfe-sitzheizung-essence-noir-9757f532-5aa7-4eb5-81bb-ca90d84b2e3a', {'Km': '31\xa0987 km', 'Year': '05/2019', 'HP': '60 kW (82 CH)', 'Price': '11 495'}]}
 ```
+
+3. Saving data to a csv file 
+```
+link,No,Km,Year,HP,Price
+/offres/peugeot-208-82-style-puretech-panoramadach-pdc-essence-bleu-9b5bbbb7-70c4-46b9-ad7b-1751d68ec683,1,,,,
+/offres/peugeot-208-active-klima-zv-einparkhilfe-tempomat-essence-noir-933aabe1-1dfc-4442-9610-75243f039264,2,,,,
+/offres/peugeot-208-active-1-2-puretech-82-klima-sitzheizung-tempomat-essence-blanc-455f83ec-b795-49b9-9475-c1c06b2b8d01,3,,,,
+/offres/peugeot-208-1-2-puretech-like-1-hand-klimaanlage-essence-gris-1368cc9f-1103-44ea-8ed3-533de38b1e59,4,,,,
+/offres/peugeot-208-1-2-puretech-like-1-hand-klimaanlage-essence-gris-86d6ddab-9e77-4096-887b-d18b989325d9,5,,,,
+```
