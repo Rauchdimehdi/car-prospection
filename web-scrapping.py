@@ -1,6 +1,6 @@
 # # TODO:
 #     - Scrap link from website : autoscout ..
-#     - Dssiplay the data using graphs 
+#     - Display the data using graphs 
 # # FIXME:
     # - Leboncoin block request
 
@@ -16,10 +16,14 @@ clio = "https://www.autoscout24.fr/lst/renault/clio/60311-innenstadt-(frankfurt-
 ds3 = ""
 polo = "https://www.autoscout24.fr/lst/volkswagen/polo-(tous)/60311-innenstadt-(frankfurt-am-main)?sort=standard&desc=0&offer=D%2CJ%2CO%2CU&fuel=D&ustate=N%2CU&size=20&page=1&lon=8.6790758&lat=50.1129&zip=60311%20Innenstadt%20(Frankfurt%20am%20Main)&zipr=150&cy=D&priceto=12500&kmto=100000&fregfrom=2015&atype=C&fc=27&qry=&"
 
-html_text = requests.get(peugeot).text
-soup = BeautifulSoup(html_text, 'lxml')
-jobs = soup.find_all("div", class_="cl-list-element cl-list-element-gap")
-for job in jobs:
+HTML_TEXT = requests.get(peugeot).text
+soup = BeautifulSoup(HTML_TEXT, 'lxml')
+JOBS = soup.find_all("div", class_="cl-list-element cl-list-element-gap")
+
+NUM = 0
+DICT = {}
+for job in JOBS:
+    # Scrapping data from the web page 
     price = job.find('div', class_='cldt-summary-payment').text
     car_details = job.find('div', class_='cldt-summary-vehicle-data').text
     info = job.ul.find_all('li')
@@ -31,6 +35,15 @@ for job in jobs:
     year = info_list[1].splitlines()[1]
     hp = info_list[2].splitlines()[1]
 
-    print(f'the car offer :\n{link} has {km}, \nmodele {year} with {hp} -- PRICE -- {price.strip()}  ')
+    # print(f'the car offer :\n{link} has {km}, \nmodele {year} with {hp} -- PRICE -- {price.strip()}  ')
+    # "€ 9 699,-"" to "9 699"
+    Only_digit = re.findall(r'\d+', price)
+    price_digit = ' '.join(Only_digit)
+
+    # Adding values to a dictionanary 
+    NUM = NUM + 1
+    DICT[NUM] = [link, {'Km':km, 'Year':year, 'HP':hp, 'Price':price_digit}]
+
+print(DICT)
 
 
