@@ -45,26 +45,33 @@ def search_cars(dict_car):
             year = info_list[1].splitlines()[1]
             hp = info_list[2].splitlines()[1]
 
-            # print(f'the car offer :\n{link} has {km}, \nmodele {year} with {hp} -- PRICE -- {price.strip()}  ')
-            # "€ 9 699,-"" to "9 699"
-            Only_digit = re.findall(r'\d+', price)
-            price_digit = ' '.join(Only_digit)
+            # removing unnecessary values from Price and Km
+            price_digit = only_num(price)
+            km_digit = only_num(km)
 
             # Adding values to a dictionanary 
             NUM = NUM + 1
-            DICT[NUM] = [link, km, year, hp, price_digit]
+            DICT[NUM] = [link, km_digit, year, hp, price_digit]
 
-            data_to_csv(DICT)
+        data_to_csv(DICT,car)
 
-def data_to_csv(DICT):
+def data_to_csv(DICT,car_name):
     try:
-        with open(csv_file, 'w') as csvfile:
+        with open(csv_file, 'a') as csvfile:
             writer = csv.DictWriter(csvfile, fieldnames=csv_columns)
             writer.writeheader()
+            writer.writerow({'link':car_name})
             for key in DICT:
                 writer.writerow({'link':DICT[key][0],'No':key, 'Km':DICT[key][1], 'Year':DICT[key][2], 'HP':DICT[key][3], 'Price':DICT[key][4]})
 
     except IOError:
         print("I/O error")
 
+def only_num(value):
+    # "€ 9 699,-"" to "9 699" or "10 000 km" to "10000"
+    Only_digit = re.findall(r'\d+', value)
+    value_in_digit = ' '.join(Only_digit)
+
+    return value_in_digit
+    
 search_cars(DICT_CARS)
