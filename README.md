@@ -88,3 +88,8 @@ polo,,,,,
 /offres/volkswagen-polo-1-4-tdi-blue-motion-technology-sound-diesel-noir-fc0f4838-3e79-4e80-81d5-31a3d8d87c51,9,65 000,08/2017,66 kW (90 CH),12 500
 
 ```
+4. Using Excel, we can import the data scrapped as below 
+```
+Data -> Get External Data -> From text -> cars.csv
+```
+![Screenshot 2021-11-17 at 20 48 14 (2)](https://user-images.githubusercontent.com/40724965/142272006-b2a6e7f4-a05a-4494-85ab-7765174a06cb.png)
