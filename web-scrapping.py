@@ -22,8 +22,11 @@ DICT_CARS = {
 # Saving a dictionnary to csv file
 csv_file = "cars.csv"
 csv_columns = ['link', 'No', 'Km', 'Year', 'HP', 'Price']
+DICT = {}
 
 def search_cars(dict_car):
+    # Erasing the file content before adding cars info 
+    open(csv_file, 'w').close()
     for car in dict_car:
         CAR_NAME = dict_car[car]
         HTML_TEXT = requests.get(CAR_NAME).text
@@ -31,7 +34,7 @@ def search_cars(dict_car):
         JOBS = soup.find_all("div", class_="cl-list-element cl-list-element-gap")
 
         NUM = 0
-        DICT = {}
+        
         for job in JOBS:
             # Scrapping data from the web page 
             price = job.find('div', class_='cldt-summary-payment').text
