@@ -1,51 +1,80 @@
 link,No,Km,Year,HP,Price
 yaris,,,,,
-/offres/toyota-yaris-yaris-hybrid-1-5-vvt-i-electrique-essence-bronze-515ddcee-3454-47e1-96ce-6d26c9d2b3d0?source=list_searchresults,1,22 850,03/2017,74 kW (101 CH),13 795
-/offres/toyota-yaris-hybrid-1-5-vvt-i-style-electrique-essence-blanc-172606dc-f118-494f-b8f6-d49e2b3666cd?source=list_searchresults,2,42 000,11/2017,55 kW (75 CH),11 700
-/offres/toyota-yaris-hybrid-1-5-vvt-i-lounge-electrique-essence-noir-361f919f-1966-4bc9-8c9a-275997dbb800?source=list_searchresults,3,43 000,10/2017,55 kW (75 CH),13 100
-/offres/toyota-yaris-hybrid-1-5-vvt-i-electrique-essence-rouge-53f341aa-f021-4e42-8fda-66060b1db308?source=list_searchresults,4,43 500,05/2017,55 kW (75 CH),13 200
-/offres/toyota-yaris-hybrid-1-5-vvt-i-style-selection-electrique-essence-bleu-9571b2d4-74c0-46fd-9137-d33913ad3e84?source=list_searchresults,5,35 000,10/2017,55 kW (75 CH),13 500
-/offres/toyota-yaris-hybrid-1-5-vvt-i-team-deutschland-electrique-essence-blanc-ff4b0bbf-0cc3-4c8c-bf9a-f90e9ad6cada?source=list_searchresults,6,34 750,09/2018,55 kW (75 CH),13 800
-/offres/toyota-yaris-1-5-hybrid-bi-tone-e-cvt-electrique-essence-gris-48645ac5-c230-ab5b-e053-0100007f410b?source=list_searchresults,7,43 500,08/2017,74 kW (101 CH),13 900
-/offres/toyota-yaris-yaris-hybrid-1-5-vvt-i-comfort-mit-design-paket-electrique-essence-gris-2cce4383-50bd-4198-8d48-495e102f7f80?source=list_searchresults,8,49 619,07/2017,74 kW (101 CH),14 260
-/offres/toyota-yaris-hybrid-1-5-vvt-i-edition-s-electrique-essence-blanc-8386cb8c-bea1-4d44-b635-dc9a840d9ca6?source=list_searchresults,9,19 371,06/2016,55 kW (75 CH),14 500
-/offres/toyota-yaris-hybrid-1-5-vvt-i-comfort-mit-design-paket-electrique-essence-bleu-cc093008-e66a-4b47-90d1-0084c10afcb7?source=list_searchresults,10,41 400,08/2018,55 kW (75 CH),14 750
-/offres/toyota-yaris-yaris-hybrid-1-5-vvt-i-comfort-mit-design-paket-electrique-essence-gris-c4a2ccf3-13bf-490c-b854-d210cbe6b19c?source=list_searchresults,11,40 000,11/2017,74 kW (101 CH),14 940
+/offres/toyota-yaris-hybrid-1-5-vvt-i-style-electrique-essence-blanc-172606dc-f118-494f-b8f6-d49e2b3666cd?source=list_searchresults,1,42 000,11/2017,55 kW (75 CH),11 700
+/offres/toyota-yaris-hybrid-1-5-vvt-i-comfort-electrique-essence-blanc-9bd39e7d-2ac5-433e-b87f-fb7cf44c810f?source=list_searchresults,2,85 900,02/2017,55 kW (75 CH),12 000
+/offres/toyota-yaris-hybrid-1-5-vvt-i-comfort-electrique-essence-blanc-8450fcb1-dd69-46fc-85ba-da9ad09aa2c7?source=list_searchresults,3,85 900,02/2017,55 kW (75 CH),12 000
+/offres/toyota-yaris-edition-s-hybrid-1-hand-klima-kamera-electrique-essence-blanc-4e867574-0076-4cd6-8b4e-c1931fe7040c?source=list_searchresults,4,80 000,08/2016,55 kW (75 CH),12 500
+/offres/toyota-yaris-hybrid-1-5-vvt-i-comfort-electrique-essence-blanc-3644bf5c-8748-4a76-bc87-781c78c772b6?source=list_searchresults,5,85 900,02/2017,55 kW (75 CH),12 500
 link,No,Km,Year,HP,Price
-peugeot,,,,,
-/offres/peugeot-208-blue-hdi-100-navi-klima-1-hand-diesel-blanc-979eb2cf-6808-4289-ac0d-8ff9220a0948?source=list_searchresults,1,79 826,06/2017,73 kW (99 CH),10 400
-/offres/peugeot-208-bluehdi-100-allure-navi-shz-bt-kamera-diesel-bleu-44340d80-d03a-4d80-9ea8-989f25c290c3?source=list_searchresults,2,34 000,08/2018,73 kW (99 CH),11 450
+peugeot_diesel,,,,,
+/offres/peugeot-208-blue-hdi-100-navi-klima-1-hand-diesel-blanc-8647e90a-9f5f-4e58-a54f-cc7254d91a19?source=list_searchresults,1,79 826,06/2017,73 kW (99 CH),10 300
+/offres/peugeot-208-208-blue-hdi-100-active-shz-diesel-noir-11c3b74d-b1df-4beb-8c60-e16ddb86f0ae?source=list_searchresults,2,89 407,04/2018,73 kW (99 CH),10 690
 /offres/peugeot-208-active-bluehdi-100-diesel-blanc-6e1369d9-de02-4515-ab73-e39e1eada696?source=list_searchresults,3,84 300,01/2018,73 kW (99 CH),11 490
 link,No,Km,Year,HP,Price
 clio,,,,,
-/offres/renault-clio-iv-grandtour-limited-dci-90-klima-pdc-diesel-gris-abba7c79-b919-4036-ace2-8a9b010d14b5?source=list_searchresults,1,72 688,04/2018,66 kW (90 CH),9 990
-/offres/renault-clio-iv-grandtour-limited-dci-90-klima-shz-diesel-gris-c1256a00-fa1e-4adc-8d83-c79a1b5ce135?source=list_searchresults,2,66 451,05/2018,66 kW (90 CH),10 290
-/offres/renault-clio-iv-grandtour-limited-dci-90-klima-diesel-argent-97d0f37c-3194-4d1a-9dc3-cb614c2f7094?source=list_searchresults,3,46 733,04/2018,66 kW (90 CH),10 390
-/offres/renault-clio-energy-dci-90-intens-diesel-blanc-1038cf3e-2ba2-43ea-ba83-b76c2082f8c1?source=list_searchresults,4,47 000,01/2017,66 kW (90 CH),11 950
-/offres/renault-clio-grandtour-energy-dci-110-start-stop-intens-diesel-noir-f701f679-0c22-4b93-8e66-40dc9efa0042?source=list_searchresults,5,76 000,05/2017,81 kW (110 CH),11 400
-/offres/renault-clio-iv-cargo-extra-diesel-gris-e680abb0-49df-452b-b4c3-b791f6b902d1?source=list_searchresults,6,69 000,05/2016,55 kW (75 CH),8 650
-/offres/renault-clio-energy-dci-75-life-diesel-noir-727aac31-5fd4-44d6-b500-c6fdbc80467c?source=list_searchresults,7,66 000,03/2017,55 kW (75 CH),8 750
-/offres/renault-clio-grandtour-dci-75-stop-navi-pdc-klima-euro-6-diesel-blanc-6e23a418-8eef-4ae3-9687-ff413fedfe80?source=list_searchresults,8,72 250,12/2016,55 kW (75 CH),8 750
-/offres/renault-clio-cargo-1-5-dci-klimaaut-pdc-navi-e6-2-sitz-lkw-zul-diesel-gris-fd091c7f-3cf9-4a3d-beb7-353b11e92fd0?source=list_searchresults,9,43 000,12/2016,55 kW (75 CH),8 995
-/offres/renault-clio-1-5-dci-klimaaut-pdc-navi-eu6-temp-2-sitze-lkw-zul-diesel-blanc-46cbae02-1283-40f2-bf1f-3820117b506e?source=list_searchresults,10,49 800,11/2016,55 kW (75 CH),8 995
-/offres/renault-clio-1-5-dci-cargo-2-sitze-klima-navi-euro-6-diesel-gris-f5609f22-16f3-4205-9831-99db622c2415?source=list_searchresults,11,47 555,04/2017,55 kW (75 CH),9 000
-/offres/renault-clio-grandtour-limited-dci-90-klima-diesel-blanc-734a1d28-afa8-4357-8a74-3937685fc990?source=list_searchresults,12,46 650,01/2017,66 kW (90 CH),9 490
-/offres/renault-clio-dynamique-dci-90-energy-start-stop-navi-bt-alu-diesel-noir-5aa2bb2e-1912-4183-aac6-ed5941fe0aac?source=list_searchresults,13,48 200,08/2015,66 kW (90 CH),9 890
-/offres/renault-clio-energy-dci-90-edc-limited-navi-pdc-klima-diesel-blanc-cf403fcc-6141-4cf9-91f0-c07dfd670003?source=list_searchresults,14,71 200,02/2018,66 kW (90 CH),9 990
-/offres/renault-clio-intens-iv-grandtour-diesel-gris-330cbc60-669b-4e56-8c53-2c764774e2af?source=list_searchresults,15,73 000,10/2016,81 kW (110 CH),10 000
-/offres/renault-clio-iv-grandtour-limited-dci-90-navi-klima-diesel-argent-ac9940e6-c13a-485e-9bac-9d68bc8f5d48?source=list_searchresults,16,65 817,04/2018,66 kW (90 CH),10 490
-/offres/renault-clio-dci-90-limited-navi-tempo-klima-pdc-1-hand-diesel-gris-d7db363f-4563-4979-a42d-c54403f819aa?source=list_searchresults,17,61 000,06/2018,66 kW (90 CH),10 590
-/offres/renault-clio-iv-grandtour-limited-dci-90-klima-diesel-argent-8449a72d-bcf5-4ba9-9da5-06327b52918e?source=list_searchresults,18,57 354,04/2018,66 kW (90 CH),10 790
-/offres/renault-clio-energy-dci90-limited-pdcsitzhklima1hand-eu6-diesel-blanc-f34200d6-eeee-4358-b511-dfc400bacf58?source=list_searchresults,19,52 249,09/2017,66 kW (90 CH),10 880
-/offres/renault-clio-iv-life-1-5-dci-75-eco-klima-bluetooth-diesel-blanc-71d4f265-1165-45d2-9a02-8c4e4639e8a4?source=list_searchresults,20,33 365,01/2018,55 kW (75 CH),10 990
+/offres/renault-clio-energy-dci-90-intens-diesel-blanc-1038cf3e-2ba2-43ea-ba83-b76c2082f8c1?source=list_searchresults,1,47 000,01/2017,66 kW (90 CH),11 950
+/offres/renault-clio-limited-iv-diesel-gris-3d83511a-07a3-464d-bcb4-b284d1e1c2dd?source=list_searchresults,2,77 500,02/2017,66 kW (90 CH),9 670
+/offres/renault-clio-dynamique-dci-90-energy-start-stop-navi-bt-alu-diesel-noir-5aa2bb2e-1912-4183-aac6-ed5941fe0aac?source=list_searchresults,3,48 200,08/2015,66 kW (90 CH),9 890
+/offres/renault-clio-iv-cargo-extra-2sitzer-allroundtransporter-diesel-noir-9ccffd86-ea77-42bc-ae18-8ab9ece8e4d5?source=list_searchresults,4,23 537,05/2017,55 kW (75 CH),9 980
+/offres/renault-clio-iv-cargo-extra-2sitzer-allroundtransporter-diesel-noir-6a1aa26e-f9ba-472b-96a1-dafc5d834d27?source=list_searchresults,5,23 537,05/2017,55 kW (75 CH),9 980
+/offres/renault-clio-grandtour-dci-75-stop-navi-pdc-diesel-gris-6428e7c9-eb51-4232-83fd-be3cc9d383e7?source=list_searchresults,6,46 800,12/2016,55 kW (75 CH),10 690
+/offres/renault-clio-energy-dci-90-start-diesel-gris-241b1689-fcca-4c18-aacc-7c7aa76c48e0?source=list_searchresults,7,63 200,03/2017,66 kW (90 CH),10 800
+/offres/renault-clio-iv-limited-1-hand-navi-garantie-diesel-gris-2823fe01-cff9-4c4a-8d35-90fcfeba6325?source=list_searchresults,8,78 000,07/2018,66 kW (90 CH),10 990
+/offres/renault-clio-iv-limited-1-5-dci-navi-1-hand-diesel-gris-b527682c-05f7-43dc-8866-81b704ee18ea?source=list_searchresults,9,70 000,07/2018,66 kW (90 CH),10 990
+/offres/renault-clio-grandtour-1-5dci-automatik-navi-shz-led-diesel-noir-b52c06e2-f0c0-4cf2-9ee0-db70f98497f6?source=list_searchresults,10,53 000,11/2016,66 kW (90 CH),11 000
+/offres/renault-clio-iv-limited-navi-1-hand-garantie-diesel-gris-56ec1411-4d74-434e-aa59-703e839fc95a?source=list_searchresults,11,68 000,07/2018,66 kW (90 CH),11 690
+/offres/renault-clio-grandtour-energy-dci-90-start-diesel-gris-972e4c9f-4336-4121-bdcf-8c5ffa3c04fc?source=list_searchresults,12,57 400,04/2018,66 kW (90 CH),11 890
+/offres/renault-clio-iv-cargo-extra-2sitzer-allroundtransporter-diesel-gris-49233146-7aef-4f5b-9b29-24751eb84c15?source=list_searchresults,13,14 083,08/2018,55 kW (75 CH),11 900
+/offres/renault-clio-iv-cargo-extra-2sitzer-allroundtransporter-diesel-gris-57f10756-4027-4508-809d-6f895246bbbc?source=list_searchresults,14,14 083,08/2018,55 kW (75 CH),11 900
+/offres/renault-clio-limited-1-5-dci-diesel-gris-dfa09a0f-083f-49b0-8989-48fdcb5bb57d?source=list_searchresults,15,52 458,10/2019,66 kW (90 CH),11 990
+/offres/renault-clio-iv-1-5dci-90-eco2-limited-naviparkpilot-diesel-rouge-cf008ebc-8d9b-455a-8f90-7ba38a813fdb?source=list_searchresults,16,30 876,12/2018,66 kW (90 CH),12 440
 link,No,Km,Year,HP,Price
-polo,,,,,
-/offres/volkswagen-polo-1-4-tdi-blue-motion-technology-comfortline-diesel-gris-8cdb10c0-1a93-457d-ae58-37bb2894da2d?source=list_searchresults,1,65 500,06/2015,66 kW (90 CH),8 490
-/offres/volkswagen-polo-1-4-tdi-blue-motion-technology-lounge-diesel-bleu-6e918e9d-bf3b-4058-83b4-c0350d964df9?source=list_searchresults,2,60 000,12/2015,66 kW (90 CH),9 800
-/offres/volkswagen-polo-comfortline-bmt-start-stopp-v-6c1-euro6-sr-wr-diesel-noir-c0eaa88e-5b9c-4b91-86e1-b86ea627fbb5?source=list_searchresults,3,76 250,11/2015,55 kW (75 CH),9 990
-/offres/volkswagen-polo-1-4tdi-klima-sitzh-tempo-radio-diesel-noir-96853b2e-3376-441d-a798-2d027ced658e?source=list_searchresults,4,69 250,02/2017,55 kW (75 CH),10 990
-/offres/volkswagen-polo-1-4-tdi-voll-sheft-klima-1-hand-tempo-aux-diesel-blanc-fa8dea0e-f2c0-4c4b-bbf6-ab06b27067f2?source=list_searchresults,5,24 713,05/2017,55 kW (75 CH),11 450
-/offres/volkswagen-polo-comfortline-1-4-tdi-comfortline-navi-alu-sitzheiz-diesel-bleu-4f41efca-7f96-4614-a6cf-74fe45b7c9ad?source=list_searchresults,6,64 500,07/2016,55 kW (75 CH),11 600
-/offres/volkswagen-polo-1-4-tdi-highline-klima-shz-alu-diesel-bleu-c5da1054-4269-4a65-98a5-ff32d766d387?source=list_searchresults,7,42 234,11/2015,77 kW (105 CH),12 390
-/offres/volkswagen-polo-1-4-tdi-sound-bmt-usb-klima-pdc-shz-diesel-argent-ec59b280-cf47-4fcc-a905-f3cce0395209?source=list_searchresults,8,29 900,08/2017,55 kW (75 CH),12 490
-/offres/volkswagen-polo-1-4-tdi-blue-motion-technology-sound-diesel-noir-fc0f4838-3e79-4e80-81d5-31a3d8d87c51?source=list_searchresults,9,65 000,08/2017,66 kW (90 CH),12 500
+polo_diesel,,,,,
+/offres/volkswagen-polo-1-4-tdi-blue-motion-technology-lounge-diesel-bleu-6e918e9d-bf3b-4058-83b4-c0350d964df9?source=list_searchresults,1,60 000,12/2015,66 kW (90 CH),9 800
+/offres/volkswagen-polo-1-4-tdi-trendline-diesel-gris-9725edf6-2e28-4c1d-883a-6fa6e93f7877?source=list_searchresults,2,56 000,09/2016,55 kW (75 CH),10 200
+/offres/volkswagen-polo-1-4-tdi-highline-klima-shz-alu-diesel-bleu-c5da1054-4269-4a65-98a5-ff32d766d387?source=list_searchresults,3,43 234,11/2015,77 kW (105 CH),11 890
+/offres/volkswagen-polo-1-4-tdi-sound-bmt-usb-klima-pdc-shz-diesel-argent-ec59b280-cf47-4fcc-a905-f3cce0395209?source=list_searchresults,4,29 900,08/2017,55 kW (75 CH),12 490
+link,No,Km,Year,HP,Price
+polo_essence,,,,,
+/offres/volkswagen-polo-1-0-sound-navi-klima-sitzhzg-essence-gris-f07f0679-42d9-4fed-9ee4-23a2396a07e7?source=list_searchresults,1,54 100,04/2017,44 kW (60 CH),11 350
+/offres/volkswagen-polo-trendline-1-0-bluetooth-klima-sitzhz-touch-cd-usb-essence-gris-9a3bb8f0-fdc0-4c71-99c3-c596ac956a6b?source=list_searchresults,2,65 605,07/2018,55 kW (75 CH),11 835
+/offres/volkswagen-polo-comfortline-1-hand-alu-start-stop-klima-essence-rouge-ea8a0f23-d397-4733-9b88-28dbc8e0af20?source=list_searchresults,3,25 500,05/2017,66 kW (90 CH),11 999
+/offres/volkswagen-polo-allstar-1-0-led-alu-climatronic-isofix-eph-essence-gris-5ba4377a-f717-42f7-9d1d-f7e25afb47f9?source=list_searchresults,4,50 658,03/2017,44 kW (60 CH),12 285
+/offres/volkswagen-polo-1-0-klima-bluetooth-essence-gris-3e1c6e54-c2ba-4799-97d1-6f036e93c0a4?source=list_searchresults,5,73 800,06/2018,55 kW (75 CH),12 450
+/offres/volkswagen-polo-1-2-tsi-90-ps-blue-motion-allstar-sitzhzg-1-hd-essence-rouge-fcac4ea0-a5d7-4cbd-99d3-19e0b2ca9ffd?source=list_searchresults,6,41 000,11/2016,66 kW (90 CH),11 890
+/offres/volkswagen-polo-1-2-tsi-bmt-comfortline-klima-radio-euro6-essence-noir-4dc1537a-6b1a-4c82-91e9-7db59bcc0056?source=list_searchresults,7,45 993,07/2017,66 kW (90 CH),12 385
+/offres/volkswagen-polo-1-0-tsi-pdc-shz-klima-servo-essence-blanc-b72d857f-a2b3-47f9-aaf4-258010e25c7a?source=list_searchresults,8,25 800,11/2018,48 kW (65 CH),12 485
+/offres/volkswagen-polo-1-0-tsi-klima-pdc-shz-servo-essence-blanc-3c5c8ba2-effa-4c38-a798-504b17a20d68?source=list_searchresults,9,26 300,11/2018,48 kW (65 CH),12 485
+/offres/volkswagen-polo-1-0-blue-motion-technology-trendline-essence-noir-edb6f962-f9ca-4aca-8553-3070ef6d51cf?source=list_searchresults,10,55 560,06/2017,44 kW (60 CH),8 699
+/offres/volkswagen-polo-6r-1-0-trendline-klima-1-hand-essence-noir-dfd0828d-8c1b-4831-b617-a89d5a693aec?source=list_searchresults,11,68 000,04/2016,44 kW (60 CH),8 300
+/offres/volkswagen-polo-1-0-comfortline-essence-argent-749d67dc-9bff-4b39-942a-a5b244eb3c55?source=list_searchresults,12,35 000,03/2015,55 kW (75 CH),8 450
+/offres/volkswagen-polo-1-0-trendline-essence-gris-c750ba4c-42a2-489d-8de0-0810bcea95f1?source=list_searchresults,13,59 300,03/2016,44 kW (60 CH),8 800
+/offres/volkswagen-polo-1-0-bmt-lounge-sitzheiz-tempomat-75ps-wenig-km-essence-blanc-ec9d7672-2011-4e51-81c2-e2bb18d6a646?source=list_searchresults,14,56 100,07/2015,55 kW (75 CH),9 350
+/offres/volkswagen-polo-allstar-v-6c1-klimaauto-szhz-2xpdc-8xbereift-essence-noir-5523d966-0820-41eb-a12a-fb7f7ee8f295?source=list_searchresults,15,69 999,10/2016,44 kW (60 CH),9 500
+/offres/volkswagen-polo-1-2-tsi-blue-motion-technology-allstar-klima-pdc-essence-mauve-b8e319a6-cd91-45f4-bbad-7129aa86afab?source=list_searchresults,16,48 362,05/2016,66 kW (90 CH),9 990
+/offres/volkswagen-polo-1-0-comfortline-essence-blanc-c5410b2f-44d7-4c8f-bd8d-c4ca2b972482?source=list_searchresults,17,62 000,02/2017,44 kW (60 CH),10 430
+/offres/volkswagen-polo-1-0bmt-trendline-cool-sound-sitzhzg-essence-blanc-08c83406-733c-4c6f-bdd5-f9947ac44eee?source=list_searchresults,18,30 042,05/2017,44 kW (60 CH),10 440
+/offres/volkswagen-polo-v-allstar-bmt-start-stopp-essence-blanc-8751225b-7602-47fc-a0ae-07ee518c677a?source=list_searchresults,19,57 175,10/2016,81 kW (110 CH),10 490
+/offres/volkswagen-polo-comfortline-bmt-start-stopp-v-6c1-sport-chrom-essence-noir-5a8dd380-47db-4b86-a283-1a4421adde8f?source=list_searchresults,20,50 000,04/2016,66 kW (90 CH),10 500
+link,No,Km,Year,HP,Price
+peugeot_essence,,,,,
+/offres/peugeot-208-active-5-tuerig-mit-klimaanlage-tempomat-essence-bleu-72a5bb41-5805-4338-8621-ec370009ee3d?source=list_searchresults,1,63 112,06/2015,60 kW (82 CH),8 980
+/offres/peugeot-208-pure-tech-active-shz-tempo-multi-pdc-hinten-essence-noir-e9705e61-fa21-4632-95fd-ee12d1f9c535?source=list_searchresults,2,60 000,11/2018,61 kW (83 CH),10 790
+/offres/peugeot-208-puretech-82-style-essence-noir-7cb4088f-5a68-4075-b058-55b4151008f0?source=list_searchresults,3,21 000,03/2018,61 kW (83 CH),11 400
+/offres/peugeot-208-puretech-68-access-essence-blanc-6662ee2b-26f8-4b4b-a155-201114dd0118?source=list_searchresults,4,82 000,03/2016,50 kW (68 CH),6 800
+/offres/peugeot-208-puretech-82-urban-move-essence-noir-b001299f-d0c2-4230-9bfd-932308b12b47?source=list_searchresults,5,62 500,12/2015,60 kW (82 CH),8 490
+/offres/peugeot-208-active-puretech-82-s-s-essence-blanc-daff1b71-898b-4634-84b3-e3996cc6b72b?source=list_searchresults,6,38 153,08/2016,60 kW (82 CH),8 980
+/offres/peugeot-208-puretech-82-allure-essence-noir-5d9f30c7-d836-4d0f-b633-854d14fe5859?source=list_searchresults,7,51 000,03/2017,60 kW (82 CH),8 990
+/offres/peugeot-208-essence-noir-d1b0f464-a8b8-44f9-b521-ae18c5552bed?source=list_searchresults,8,46 200,02/2015,60 kW (82 CH),8 990
+/offres/peugeot-208-inklusive-ein-jahr-garantie-neu-hu-au-essence-gris-73adbb33-6947-4938-bd20-c60192e593c8?source=list_searchresults,9,68 000,04/2015,60 kW (82 CH),8 999
+/offres/peugeot-208-1-2-e-vti-active-pdc-tempo-klima-garantie-essence-noir-e2a7f7eb-9192-41f3-9b98-86a3278c9417?source=list_searchresults,10,85 712,04/2015,60 kW (82 CH),9 150
+/offres/peugeot-208-1-2-12v-puretech-82-active-klima-einparkhilfe-essence-noir-8cf08a9b-cae5-44a8-a3a6-4541b0cad59b?source=list_searchresults,11,55 815,10/2017,60 kW (82 CH),9 490
+/offres/peugeot-208-puretech-68-active-essence-bleu-2a175167-2ed8-4823-a003-d732802e47de?source=list_searchresults,12,36 400,12/2016,50 kW (68 CH),9 490
+/offres/peugeot-208-puretech-82-start-stop-active-essence-noir-107479d6-cc6a-4f28-aadb-e1bae574e17a?source=list_searchresults,13,19 500,09/2018,61 kW (83 CH),9 500
+/offres/peugeot-208-1-2-puretech-like-1-hand-klimaanlage-essence-gris-5cf53d7f-0173-44da-92d4-a20bca411df0?source=list_searchresults,14,23 300,03/2019,50 kW (68 CH),9 699
+/offres/peugeot-208-1-2-puretech-like-1-hand-klimaanlage-essence-gris-87bb3dde-9006-41d2-a1f8-cdda41a9db8e?source=list_searchresults,15,32 100,03/2019,50 kW (68 CH),9 699
+/offres/peugeot-208-1-2-e-vti-active-shz-pdc-klima-garantie-essence-noir-102ef134-3789-403c-9f69-dac937e55b7e?source=list_searchresults,16,32 308,05/2016,60 kW (82 CH),9 840
+/offres/peugeot-208-puretech-82-urban-move-essence-blanc-70526d9e-ac01-424a-a423-852217aef536?source=list_searchresults,17,34 600,01/2018,60 kW (82 CH),9 900
+/offres/peugeot-208-puretech-110-stop-start-allure-essence-bleu-371ad4e2-5f8d-4241-9bc8-01e28dfa4deb?source=list_searchresults,18,48 650,02/2015,81 kW (110 CH),9 990
+/offres/peugeot-208-winter-edition-essence-blanc-ff8f5491-b922-41a1-8d7e-241c6ae9fe71?source=list_searchresults,19,42 500,04/2017,60 kW (82 CH),9 990
+/offres/peugeot-208-1-2-puretech-82-active-klima-einparkhilfe-essence-blanc-92fa6f59-9393-4fae-9a4e-acce80208b34?source=list_searchresults,20,19 200,09/2016,60 kW (82 CH),10 290
