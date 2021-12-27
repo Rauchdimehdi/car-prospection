@@ -1,16 +1,10 @@
 # Web scrapper from AutoScout24
-1. After providing a link, you get a list of information of the cars in this format :
+1. After providing a list of links, you get a list of information of the cars in this format :
 > python3 web-scrapping.py
 ```
 the car offer :
  /offres/peugeot-208-82-style-puretech-panoramadach-pdc-essence-bleu-9b5bbbb7-70c4-46b9-ad7b-1751d68ec683 has 39 100 km, 
 modele 01/2017 with 60 kW (82 CH) -- PRICE -- € 9 880,-  
-the car offer :
- /offres/peugeot-208-active-klima-zv-einparkhilfe-tempomat-essence-noir-933aabe1-1dfc-4442-9610-75243f039264 has 86 000 km, 
-modele 03/2017 with 60 kW (82 CH) -- PRICE -- € 7 999,-  
-the car offer :
- /offres/peugeot-208-active-1-2-puretech-82-klima-sitzheizung-tempomat-essence-blanc-455f83ec-b795-49b9-9475-c1c06b2b8d01 has 51 200 km, 
-modele 03/2017 with 60 kW (82 CH) -- PRICE -- € 8 900,-  
 ```
 2. Using dictionnary to structure the data
 ```
@@ -90,6 +84,10 @@ polo,,,,,
 ```
 4. Using Excel, we can import the data scrapped as below 
 ```
-Data -> Get External Data -> From text -> cars.csv
+Data -> Get External Data -> select cars.csv file -> From text (select comma as delimiter) -> column data format : General -> finish 
 ```
 ![Screenshot 2021-11-17 at 20 48 14 (2)](https://user-images.githubusercontent.com/40724965/142272006-b2a6e7f4-a05a-4494-85ab-7765174a06cb.png)
+
+> You can then create graphs 
+
+<img width="1182" alt="Screenshot 2021-12-27 at 17 29 37" src="https://user-images.githubusercontent.com/40724965/147490255-14420b4e-f0ed-4ae4-a771-451f63cf21d9.png">
