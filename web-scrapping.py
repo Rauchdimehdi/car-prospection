@@ -12,6 +12,8 @@ import re
 import csv
 import sys
 
+import send_email
+
 DICT_CARS = {
     "yaris":"https://www.autoscout24.fr/lst/toyota/yaris/60311-innenstadt-(frankfurt-am-main)?sort=standard&desc=0&offer=D%2CJ%2CO%2CU&fuel=2&ustate=N%2CU&size=20&page=1&lon=8.6790758&lat=50.1129&zip=60311%20Innenstadt%20(Frankfurt%20am%20Main)&zipr=100&cy=D&priceto=12500&kmto=90000&fregfrom=2016&atype=C&fc=14&qry=&",
     "peugeot_diesel":"https://www.autoscout24.fr/lst/peugeot/208/60311-innenstadt-(frankfurt-am-main)?sort=standard&desc=0&offer=D%2CJ%2CO%2CU&fuel=D&ustate=N%2CU&size=20&page=1&lon=8.6790758&lat=50.1129&zip=60311%20Innenstadt%20(Frankfurt%20am%20Main)&zipr=100&cy=D&priceto=12500&kmto=90000&fregfrom=2015&atype=C&fc=18&qry=&",
